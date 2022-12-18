@@ -1,0 +1,2 @@
+# AsepriteImporter
+将Aseprite文件直接导入进Unity使用
